@@ -1,0 +1,4 @@
+rootProject.name = 'codedsite'
+include 'CodedSite-Core'
+findProject(':CodedSite-Core')?.name = 'Codedsite-Core'
+
