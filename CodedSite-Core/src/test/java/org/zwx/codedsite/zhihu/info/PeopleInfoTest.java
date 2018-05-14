@@ -121,7 +121,7 @@ public class PeopleInfoTest extends BaseTest {
             }
         });
         PeopleInfo newPeople = (PeopleInfo) enhancer.create();
-//        print(newPeople);
+        print(newPeople);
 
         long now = System.currentTimeMillis();
         print("Cglib dynamic generate class worked during {} milliseconds".replace("{}", Long.toString(now - seconds)));
