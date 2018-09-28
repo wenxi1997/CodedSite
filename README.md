@@ -1,8 +1,8 @@
-# Zhihu-OAuth
+# CodedSite
 
-[![author][badge-author]][my-zhihu] [![ci-dev][ci-dev-img]][ci-page] [![ci-master][ci-master-img]][ci-page] [![docs][badge-docs]][rtds-home] [![version][badge-version]][pypi] [![py-version][badge-py-version]][pypi] [![state][badge-state]][pypi] [![license][badge-license]][license]
+ [![state][badge-state]][pypi] [![license][badge-license]][license]
 
-**同学们，由于知乎新的 API 验证 UA，0.0.14 之前的版本已经不可用了，请尽快升级到 0.0.14 以上版本。**
+**CodedSite = 将网站以代码形式表示。**
 
 ## 简介
 
